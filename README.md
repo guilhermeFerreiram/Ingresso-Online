@@ -21,9 +21,9 @@
 <h2 align="center" id="tecnologias">🖱 Tecnologias</h2>
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-323330?logo=html5"/> <img src="https://img.shields.io/badge/CSS3-323330?logo=css3"/></p>
 
-<h2 align="center">🙋‍♂️ Autor</h2>
+<h2 align="center" id="autor">🙋‍♂️ Autor</h2>
 <p align="center"><a href="https://github.com/guilhermeFerreiram">guilhermeFerreiram</a></p>
 <p align="center"><a href="https://www.linkedin.com/in/guilherme-f-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a> <a href="mailto:guil.ferreiram@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a></p>
 
-<h2 align="center">📃 Licença</h2>
+<h2 align="center" id="licenca">📃 Licença</h2>
 <p align="center"><a href="https://github.com/guilhermeFerreiram/Ingresso-Online/blob/main/LICENSE">MIT License</a> &nbsp;&bull;&nbsp; &copy; guilhermeFerreiram</p>
